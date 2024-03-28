@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Ana, a Developer based in Dublin.
+### Hi there 👋 I'm Ana, a Web Developer.
+- Currently based in Dublin.
 - First Class Honour in Higher Diploma in Science in Computing - Web Development @National College of Ireland.
 - Currently completing a Diploma in Full-Stack Software Development @CodeInstitute.
 
