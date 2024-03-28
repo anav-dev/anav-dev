@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ana, a Web Developer.
-| Dublin based 🇮🇪.
-| Higher Diploma in Science in Computing (Web Development) @National College of Ireland.
-| Currently completing a Diploma in Full-Stack Software Development @CodeInstitute.
+- Dublin based 🇮🇪.
+- Higher Diploma in Science in Computing (Web Development) @National College of Ireland.
+- Currently completing a Diploma in Full-Stack Software Development @CodeInstitute.
 
 
 
