@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ana, a Web Developer.
 - Graduated in **Science in Computing - Web Development** @National College of Ireland.
-- Currently studying the Full-Stack Software Development Diploma @CodeInstitute.
+- Currently studying the **Full-Stack Software Development** Diploma @CodeInstitute.
 - Dublin based.
 
 
