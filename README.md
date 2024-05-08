@@ -12,7 +12,6 @@
 - [Java The Cat](https://nci-marta.github.io/java-the-cat/)
 - [Travel Site](https://github.com/anav-dev/myfirst-react-project)
 - [Library System](https://github.com/anav-dev/CloudApp_finalproject)
-- [Weather App](https://github.com/anav-dev/weatherApp/)
 
 
 - - -
