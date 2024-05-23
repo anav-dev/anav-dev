@@ -10,10 +10,10 @@
 - [Analog Film](https://project-3ebfb.web.app/)
 - [Embroidery](https://anav-dev.github.io/hand-embroidery/)
 - [Java The Cat](https://nci-marta.github.io/java-the-cat/)
-- [Library System](https://github.com/anav-dev/CloudApp_finalproject)
+- [Library](https://github.com/anav-dev/CloudApp_finalproject)
 - [Portfolio](https://portfolio-anav.netlify.app/)
 - [Runner Crush](https://anav-dev.github.io/runner-crush/)
-- [Travel Site](https://github.com/anav-dev/myfirst-react-project)
+- [Discover Ireland](https://github.com/anav-dev/myfirst-react-project)
 
 
 
