@@ -7,7 +7,7 @@
 
 ## My Work: 
 
-- [Analog Film](https://project-3ebfb.web.app/)
+- [The Art of Analog](https://project-3ebfb.web.app/)
 - [Embroidery](https://anav-dev.github.io/hand-embroidery/)
 - [Java The Cat](https://nci-marta.github.io/java-the-cat/)
 - [Library](https://github.com/anav-dev/CloudApp_finalproject)
