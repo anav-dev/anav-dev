@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm Ana, a Web Developer.
-- **E-Commerce Backend** Intern @MTN SHOP.
 - Graduated in **Science in Computing - Web Development** @National College of Ireland.
 - Currently studying the **Full-Stack Software Development** Diploma @CodeInstitute.
 - **Dublin** based.
