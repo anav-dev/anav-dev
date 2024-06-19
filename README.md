@@ -3,27 +3,7 @@
 - Graduated in **Computing Science, Web Development** @National College of Ireland.
 
 
-
-## My Work: 
-
-- [Discover Ireland](https://github.com/anav-dev/myfirst-react-project)
-- [Embroidery](https://anav-dev.github.io/hand-embroidery/)
-- [Java The Cat](https://nci-marta.github.io/java-the-cat/)
-- [Library](https://github.com/anav-dev/anas-library)
-- [Portfolio](https://portfolio-anav.netlify.app/)
-- [Runner Crush](https://anav-dev.github.io/runner-crush/)
-- [The Art of Analog](https://project-3ebfb.web.app/)
-
-
-
 - - -
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anav-dev&layout=compact)](https://github.com/anav-dev/github-readme-stats)
-
-
-- - -
-
 
 
 ### Contact Me
