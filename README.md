@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Ana, a Web Developer.
-- **E-commerce Backend** @Mountain Productions Inc.
+- **Website Development** @Mountain Productions Inc.
 - Graduated in **Computing Science, Web Development** @National College of Ireland.
 
 
